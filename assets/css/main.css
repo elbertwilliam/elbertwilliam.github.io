@@ -25,7 +25,7 @@ section, summary, time, mark, audio {
 	font: inherit;
 	vertical-align: baseline;}
 video {
-	height: auto;
+	height: 320;
 	width: 100%;
 }
 
