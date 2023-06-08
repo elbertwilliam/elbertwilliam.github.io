@@ -2641,15 +2641,6 @@ input, select, textarea {
 			margin: 4rem 0;
 			width: 100%;
 		}
-		.image.main1 {
-			display: block;
-			margin: 4rem 0;
-			width: 100%;
-			display: block;
-  			margin-left: auto;
-  			margin-right: auto;
-  			width: 50%;
-		}
 
 			.image.main:first-child {
 				margin-top: 0;
@@ -4698,5 +4689,4 @@ input, select, textarea {
 			box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
 			visibility: visible;
 		}
-
 	}
